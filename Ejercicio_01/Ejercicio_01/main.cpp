@@ -2,6 +2,9 @@
 
 using namespace std;
 
+/**
+ * Ej. MI-1 Dados dos valores enteros A y B, informar la suma, la resta y el producto.
+ */
 int main()
 {
     int numero_1 = 0;
